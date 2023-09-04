@@ -42,3 +42,12 @@ venv/
 !.elasticbeanstalk/*.global.yml
 set_env.sh
 testing_accessKeys.csv
+eks_testing_accessKeys.csv
+udacity_accessKeys.csv
+sample-travis.yaml
+note.sh
+terraform/**
+
+k8s/aws-secret.yaml
+k8s/env-configmap.yaml
+k8s/env-secret.yaml
